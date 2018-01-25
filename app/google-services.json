@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532768538066",
+    "firebase_url": "https://skinnhair-893c6.firebaseio.com",
+    "project_id": "skinnhair-893c6",
+    "storage_bucket": "skinnhair-893c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532768538066:android:0c4b96eeb7802477",
+        "android_client_info": {
+          "package_name": "com.satyahair.skinnhair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532768538066-d755mqh0gm088lo2s365ff767kpk9cal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyahair.skinnhair",
+            "certificate_hash": "b01825fd261f4eb9da788293d84fce6f081f4f80"
+          }
+        },
+        {
+          "client_id": "532768538066-af69grt6eb8j6m61ovdc09vso1hqd4uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8SPY2Mq681Sd8MLNSFnCn0hvvCRaAdiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532768538066-af69grt6eb8j6m61ovdc09vso1hqd4uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

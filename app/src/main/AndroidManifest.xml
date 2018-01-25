@@ -1,0 +1,82 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.satyahair.skinnhair">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+
+    <application
+        android:name=".SkinNHair"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".view.hair.casestudy.ActivityHairCaseStudies">
+
+        </activity>
+        <activity android:name=".view.hair.testimonial.ActivityHairTestimonial">
+
+        </activity>
+        <activity android:name=".view.hair.treatment.ActivityHairTreatements">
+
+        </activity>
+
+        <activity android:name=".view.hair.faq.ActivityHairFAQ">
+
+        </activity>
+
+        <activity
+            android:name=".view.skin.treatments.ActivitySkinTreatments"
+            android:theme="@android:style/Theme.Holo.Light.Dialog">
+
+        </activity>
+        <activity android:name=".view.SkinNHairSelectionActivity">
+
+        </activity>
+
+        <activity android:name=".view.skin.treatments.ActivitySkinCare"></activity>
+
+        <activity android:name=".view.skin.treatments.ActivitySkinCosmeticSurgery"></activity>
+        <activity android:name=".view.ActivityDashBoard">
+
+        </activity>
+        <activity android:name=".view.hair.faq.HairFAQDetails" />
+        <activity
+            android:name=".view.YouTubeActivity"
+            android:theme="@style/Theme.Transparent" />
+        <activity android:name=".view.ActivitySplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.skin.treatments.SkinTreatmentDetail"></activity>
+
+        <activity android:name=".view.skin.faq.ActivitySkinFAQ" />
+        <activity android:name=".view.skin.casestudy.ActivitySkinCaseStudies" />
+        <activity android:name=".view.skin.casestudy.ActivityCaseStudyDetail" />
+        <activity android:name=".view.hair.casestudy.ActivityCaseStudyDetail" />
+        <activity android:name=".view.hair.website.ActivityHairWebSite" />
+        <activity android:name=".view.skin.website.ActivitySkinWebSite" />
+        <activity android:name=".view.hair.treatment.ActivityHairTreatmentDetail" />
+        <activity android:name=".view.hair.contactus.ActivityContactUs">
+
+        </activity>
+        <activity android:name=".view.hair.blog.ActivityHairBlog">
+
+        </activity>
+        <activity android:name=".view.skin.blog.ActivitySkinBlog">
+
+        </activity>
+        <activity android:name=".view.skin.treatments.ActivityHairCare" />
+        <activity android:name=".view.skin.pricecompare.ActivitySkinPriceComparison"/>
+        <activity android:name=".view.hair.pricecompare.ActivityHairPriceComparison"/>
+        <service android:name="messaging.FireBaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

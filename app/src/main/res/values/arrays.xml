@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skin_cosmetic_surgery">
+        <item>http://www.satyaskinlaser.com/wp-json/pages/203</item>
+        <item>http://www.satyaskinlaser.com/wp-json/pages/585</item>
+        <item>http://www.satyaskinlaser.com/wp-json/pages/587</item>
+        <item>http://www.satyaskinlaser.com/wp-json/pages/589</item>
+        <item>http://www.satyaskinlaser.com/wp-json/pages/593</item>
+        <item>http://www.satyaskinlaser.com/wp-json/pages/591</item>
+    </string-array>
+
+
+    <string-array name="hair_gallery" formatted="false">
+        <item> http://www.hairtransplantindia.co.in/patient-gallery-case-studies/wp-json/wp/v2/posts/?filter[posts_per_page]=60</item>
+        <!--<item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=1</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=2</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=3</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=4</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=5</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=6</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=7</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=8</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=9</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=10</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=11</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=12</item>
+        <item>http://www.hairtransplantindia.co.in/wp-json/posts/?page=13</item>
+-->
+
+        <!-- <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=DSFT</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=FUT-Strip%20Method</item>
+
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Beard%20Transplant]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Eyebrow%20Transplant]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Female%20Hair%20Transplant,%20Synthetic%20Hair%20Transplant-NIDO]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Female%20Hair%20Transplant,%20FUE-Follicular%20unit%20extraction]</item>
+
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Synthetic%20Hair%20Transplant-NIDO]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[FUE-Follicular%20unit%20extraction]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[FUT-Strip%20Method]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Hair%20Weaving]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Long%20Hair%20Transplant]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Medicine%20Treatment]</item>
+
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Repair%20Surgery]</item>
+         <item>http://www.hairtransplantindia.co.in/wp-json/posts?filter[category_name]=[Synthetic%20Hair%20Transplant-Biofibre]</item>
+ -->
+    </string-array>
+
+    <string-array name="hair_treatment" formatted="false">
+        <item>heading!1. Treatment by Medicine?http://www.hairtransplantindia.co.in/wp-json/pages/2160</item>
+        <item>heading!2. Non Surgical Hair Treatment?http://www.hairtransplantindia.co.in/wp-json/pages/2147</item>
+        <item>!     \ta) PRP - Platelet Rich Plasma?http://www.hairtransplantindia.co.in/wp-json/pages/2149</item>
+        <item>!     \tb) Mesotherapy Treatment?http://www.hairtransplantindia.co.in/wp-json/pages/2152</item>
+        <item>!     \tc) Stem Cell treatment?http://www.hairtransplantindia.co.in/wp-json/pages/2155</item>
+        <item>!     \td) Hair Weaving?http://www.hairtransplantindia.co.in/wp-json/pages/1648</item>
+
+        <item>!     \te) Laser Hair Comb?http://www.hairtransplantindia.co.in/wp-json/pages/2216</item>
+        <item>heading!3. Natural Hair Transplant Techniques?http://www.hairtransplantindia.co.in/wp-json/pages/1636</item>
+        <item>!     \ta) Long hair Transplant?http://www.hairtransplantindia.co.in/wp-json/pages/1652</item>
+        <item>!     \tb) Follicular Unit Extraction Technique (FUE) - Procedure?http://www.hairtransplantindia.co.in/wp-json/pages/1673</item>
+        <item>!     \tc) FUT -Follicular Hair Transplant?http://www.hairtransplantindia.co.in/wp-json/pages/1642</item>
+        <item>!     \td) DSFT?http://www.hairtransplantindia.co.in/wp-json/pages/5645</item>
+
+        <item>!     \te) Body Hair Transplant?http://www.hairtransplantindia.co.in/wp-json/pages/2163</item>
+        <item>!     \tf) Hair transplant cost in Delhi?http://www.hairtransplantindia.co.in/wp-json/pages/7382</item>
+        <item>heading!4. Salient Features of Satya’s Technique for FUE and FUT?http://www.hairtransplantindia.co.in/wp-json/pages/5834</item>
+        <item>heading!5. Satya’s Procedure for FUE and FUT?http://www.hairtransplantindia.co.in/wp-json/pages/5837</item>
+        <item>heading!6. Synthetic Hair transplant?http://www.hairtransplantindia.co.in/wp-json/pages/1644</item>
+        <item>heading!7. Repair Surgery?http://www.hairtransplantindia.co.in/wp-json/pages/1646</item>
+    </string-array>
+
+    <string-array name="skin_casestudies" formatted="false">
+        <item>Acne Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/acne-treatment/</item>
+        <item>Anti Wrinkle Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/anti-wrinkle-treatment/</item>
+        <item>Birthmark removal?http://www.satyaskinlaser.com/photo-gallery/skin/birthmark-removal/</item>
+        <item>Botox &amp; Dermal Filler?http://www.satyaskinlaser.com/photo-gallery/skin/botox-filler/</item>
+        <item>Co2 mole removal?http://www.satyaskinlaser.com/photo-gallery/skin/co2-mole-removal/</item>
+        <item>Congenital melanocytic nevus?http://www.satyaskinlaser.com/photo-gallery/skin/congenital-melanocytic-nevus/</item>
+        <item>Derma Roller?http://www.satyaskinlaser.com/photo-gallery/skin/derma-roller/</item>
+
+        <item>DPN,Freckle, Skin Tag Removal ?http://www.satyaskinlaser.com/photo-gallery/skin/dpn-freckle-skin-tag-removal-by-co2-laser/</item>
+        <item>Eczema?http://www.satyaskinlaser.com/photo-gallery/skin/eczema/</item>
+        <item>Dermal filler?http://www.satyaskinlaser.com/skin-care/dermal-fillers/</item>
+        <item>Laser Hair Removal?http://www.satyaskinlaser.com/photo-gallery/skin/laser-hair-removal/</item>
+        <item>Melasma?http://www.satyaskinlaser.com/photo-gallery/skin/melasma/</item>
+        <item>Molluscum?http://www.satyaskinlaser.com/photo-gallery/skin/molluscum/</item>
+        <item>Pigmentation Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/pigmentation-treatment/</item>
+        <item>Prebridal Treatments?http://www.satyaskinlaser.com/photo-gallery/skin/prebridal-treatments/</item>
+        <item>PRP face?http://www.satyaskinlaser.com/photo-gallery/skin/prp-face/</item>
+        <item>Scar revision?http://www.satyaskinlaser.com/photo-gallery/skin/scar-revision/</item>
+        <item>Scarlite Laser?http://www.satyaskinlaser.com/photo-gallery/skin/scarlite-laser/</item>
+        <item>Skin Lightning Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/skin-lightning-treatment/</item>
+        <item>Skin Polishing?http://www.satyaskinlaser.com/photo-gallery/skin/skin-polish/</item>
+        <item>Strech Marks Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/strech-marks-treatment/</item>
+        <item>Under Eye Treatment?http://www.satyaskinlaser.com/photo-gallery/skin/under-eye-treatment/</item>
+        <item>Leukoderma (Vitiligo)?http://www.satyaskinlaser.com/photo-gallery/skin/vitiligo/</item>
+        <item>Wart Removal?http://www.satyaskinlaser.com/photo-gallery/skin/wart-removal/</item>
+        <item>Xanthelesma?http://www.satyaskinlaser.com/photo-gallery/skin/xanthelesma/</item>
+    </string-array>
+    <string-array name="skin_care" formatted="false"></string-array>
+    <string-array name="skin_care_list" formatted="false">
+        <item>Skin Care?http://www.satyaskinlaser.com/wp-json/pages/199</item>
+        <item>Skin Types?http://www.satyaskinlaser.com/wp-json/pages/384</item>
+        <item>Skin Care Tips?http://www.satyaskinlaser.com/wp-json/pages/356</item>
+        <item>Know Your Skin?http://www.satyaskinlaser.com/wp-json/pages/352</item>
+        <item>Acne?http://www.satyaskinlaser.com/wp-json/pages/360</item>
+        <item>Acne Scars?http://www.satyaskinlaser.com/wp-json/pages/363</item>
+        <item>Lady Dermatologist?http://www.satyaskinlaser.com/wp-json/pages/787</item>
+        <item>Anti Wrinkle Treatments?http://www.satyaskinlaser.com/wp-json/pages/366</item>
+        <item>Skin Rejuvenation?http://www.satyaskinlaser.com/wp-json/pages/368</item>
+        <item>Skin Whitening?http://www.satyaskinlaser.com/wp-json/pages/370</item>
+        <item>Skin Tightening?http://www.satyaskinlaser.com/wp-json/pages/377</item>
+        <item>Skin Pigmentation?http://www.satyaskinlaser.com/wp-json/pages/381</item>
+        <item>Skin Lightening?http://www.satyaskinlaser.com/wp-json/pages/383</item>
+        <item>Anti Aging Treatment?http://www.satyaskinlaser.com/wp-json/pages/385</item>
+        <item>Dermal Fillers?http://www.satyaskinlaser.com/wp-json/pages/387</item>
+        <item>Chemical Peels?http://www.satyaskinlaser.com/wp-json/pages/389</item>
+        <item>Xanthelasma?http://www.satyaskinlaser.com/wp-json/pages/407</item>
+        <item>Leukoderma(Vitiligo)?http://www.satyaskinlaser.com/wp-json/pages/1094</item>
+        <item>Eczema Treatment Doctor In Delhi?http://www.satyaskinlaser.com/wp-json/pages/414</item>
+        <item>Keloid Treatment?http://www.satyaskinlaser.com/wp-json/pages/417</item>
+        <item>Psoriasis Treatment?http://www.satyaskinlaser.com/wp-json/pages/420</item>
+        <item>Super Pulsed Co2 Laser Treatment?http://www.satyaskinlaser.com/wp-json/pages/422</item>
+        <item>Tan Removal?http://www.satyaskinlaser.com/wp-json/pages/424</item>
+        <item>Freckle Removal?http://www.satyaskinlaser.com/wp-json/pages/426</item>
+        <item>Wart Removal Treatment?http://www.satyaskinlaser.com/wp-json/pages/830</item>
+        <item>Stretch Marks?http://www.satyaskinlaser.com/wp-json/pages/428</item>
+        <item>HIFU/Ultherapy?http://www.satyaskinlaser.com/wp-json/pages/430</item>
+        <item>Dark Circles?http://www.satyaskinlaser.com/wp-json/pages/432</item>
+        <item>Birth Mark Removal?http://www.satyaskinlaser.com/wp-json/pages/437</item>
+        <item>Tattoo Removal?http://www.satyaskinlaser.com/wp-json/pages/452</item>
+        <item>Mesotherapy?http://www.satyaskinlaser.com/wp-json/pages/455</item>
+        <item>LED Mask?http://www.satyaskinlaser.com/wp-json/pages/457</item>
+        <item>Fractional Laser Treatment?http://www.satyaskinlaser.com/wp-json/pages/459</item>
+        <item>Non Surgical Facelift?http://www.satyaskinlaser.com/wp-json/pages/461</item>
+        <item>Dermaroller?http://www.satyaskinlaser.com/wp-json/pages/464</item>
+        <item>Thread Lift?http://www.satyaskinlaser.com/wp-json/pages/466</item>
+        <item>Skin Polish?http://www.satyaskinlaser.com/wp-json/pages/469</item>
+        <item>Laser Hair Removal?http://www.satyaskinlaser.com/wp-json/pages/471</item>
+
+
+        <!--<item>Vaginoplasty?http://www.satyaskinlaser.com/wp-json/pages/591</item>
+        <item>Breast correction surgery?http://www.satyaskinlaser.com/wp-json/pages/589</item>
+        <item>Cosmetic Surgery?http://www.satyaskinlaser.com/wp-json/pages/203</item>
+        <item>Microdermabrasion treatment?http://www.satyaskinlaser.com/wp-json/pages/1425</item>-->
+        <!--<item>Vaginal tightening by laser?http://www.satyaskinlaser.com/wp-json/pages/1427</item>-->
+    </string-array>
+
+    <string-array name="hair_care">
+        <item>Female Pattern Hair Loss?http://www.satyaskinlaser.com/wp-json/pages/483</item>
+        <item>Male Pattern Hair Loss?http://www.satyaskinlaser.com/wp-json/pages/487</item>
+        <item>Other Baldness Patterns?http://www.satyaskinlaser.com/wp-json/pages/499</item>
+        <item>Hair Loss Facts?http://www.satyaskinlaser.com/wp-json/pages/491</item>
+        <item>Hair Care Tips?http://www.satyaskinlaser.com/wp-json/pages/495</item>
+        <item>Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/497</item>
+        <item>Natural Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/500</item>
+        <item>Follicular Unit Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/502</item>
+        <item>Follicular Unit Extraction?http://www.satyaskinlaser.com/wp-json/pages/504</item>
+        <item> Beard Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/508</item>
+        <item>Long Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/510</item>
+        <item>Synthetic Hair Implant?http://www.satyaskinlaser.com/wp-json/pages/513</item>
+        <item>Punch Graft Correction Surgery?http://www.satyaskinlaser.com/wp-json/pages/515</item>
+        <item>Hair Weaving?http://www.satyaskinlaser.com/wp-json/pages/517</item>
+        <item>Hair Regrowth Treatment?http://www.satyaskinlaser.com/wp-json/pages/519</item>
+        <item>Platelet Rich Plasma?http://www.satyaskinlaser.com/wp-json/pages/521</item>
+        <item>Alopecia Areata Treatment?http://www.satyaskinlaser.com/wp-json/pages/813</item>
+        <item>Stem Cells?http://www.satyaskinlaser.com/wp-json/pages/524</item>
+        <item>Laser Comb?http://www.satyaskinlaser.com/wp-json/pages/526</item>
+        <item>Micro Wefting?http://www.satyaskinlaser.com/wp-json/pages/528</item>
+        <item>Hair Extensions?http://www.satyaskinlaser.com/wp-json/pages/530</item>
+        <item>Chemotherapy Wigs?http://www.satyaskinlaser.com/wp-json/pages/532</item>
+        <item>Salient Features of Our Technique?http://www.satyaskinlaser.com/wp-json/pages/536</item>
+        <item>Our Procedure for FUE and FUT?http://www.satyaskinlaser.com/wp-json/pages/539</item>
+        <item>Follicular Unit Hair Transplant?http://www.satyaskinlaser.com/wp-json/pages/502</item>
+        <item>Biofibre (Italian Technology)?http://www.satyaskinlaser.com/wp-json/pages/543</item>
+        <item>NIDO (Japanese technology)?http://www.satyaskinlaser.com/wp-json/pages/545</item>
+    </string-array>
+    <string-array name="category">
+        <item>Appointment</item>
+        <item>Query</item>
+    </string-array>
+    <string-array name="select_doctor">
+        <item>Dr Shaiil Gupta</item>
+        <item>Dr Ruchi Agarwal</item>
+    </string-array>
+    <string-array name="select_schedule_docor_shail">
+        <item>Pitam Pura(Morning 11.30 am-1 pm)-{Mon-Sat}</item>
+        <item>Pitam Pura(Evening 5 pm-7 pm)-{Mon-Fri}</item>
+        <item>Kamla Nagar(Evening 5 pm-7 pm(Saturday only)</item>
+    </string-array>
+    <string-array name="select_schedule_docor_ruchi">
+        <item>Kamla Nagar(11 am-1 pm)(Mon-Sat)</item>
+        <item>Kamla Nagar(5 pm-7 pm)-Mon/Wed/Fri)</item>
+    </string-array>
+</resources>

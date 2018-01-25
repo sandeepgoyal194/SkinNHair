@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    app:cardCornerRadius="@dimen/cardview_default_radius"
+    app:cardUseCompatPadding="true"
+    app:cardElevation="5dp"
+    app:layout_collapseParallaxMultiplier="1.0">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/treatment_counter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:maxLines="2"
+            android:textColor="#ff000000"
+            android:textSize="15sp"
+            android:padding="5dp"
+            android:gravity="bottom"
+            android:visibility="gone"
+            android:textAllCaps="false"/>
+
+        <TextView
+            android:id="@+id/treatment_titile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/treatment_counter"
+            android:text="TextView"
+            android:maxLines="2"
+            android:textColor="#ff000000"
+            android:textSize="15sp"
+            android:gravity="left"
+            android:layout_weight="2"
+            android:paddingBottom="0dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingEnd="5dp"
+            android:paddingStart="5dp"
+            android:paddingTop="5dp"
+            android:textAllCaps="false" />
+
+    </RelativeLayout>
+        <View
+            android:id="@+id/divider_color"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/heading_background"
+            android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

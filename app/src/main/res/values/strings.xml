@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HairNSkin</string>
+
+
+    <string name="testimonials">Testimonials</string>
+    <string name="casestudies">Case Studies</string>
+    <string name="treatments">Treatments</string>
+    <string name="website">Website</string>
+    <string name="price_comparison">Price Comparison</string>
+    <string name="faq">FAQs</string>
+    <string name="contact_us">Book an Appointment</string>
+    <string name="blog">Blog</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="message">Message</string>
+    <string name="front_view">Front View</string>
+    <string name="back_view">Back View</string>
+    <string name="left_view">Left View</string>
+    <string name="right_view">Right View</string>
+    <string name="top_view">Top View</string>
+
+    <string name="permissions_denied_alert">Cannot use this feature without permission.\nTap Settings, allow the permission and try again</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="youtbueapi"></string>
+
+</resources>
